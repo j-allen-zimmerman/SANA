@@ -1,0 +1,17 @@
+Homepage:
+-https://www.extremetech.com/wp-content/uploads/2012/10/felix-baumgartner-standing-in-his-capsule-about-to-dive-640x480.jpg
+-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg/800px-Johannes_Vermeer_-_The_Astronomer_-_1668.jpg
+Astronomers:
+-https://www.wondriumdaily.com/wp-content/uploads/2021/01/CelestialTerrestrial_CopernicusHeliocentric_QBS_Thumbnail.jpg
+-https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg?download
+-https://upload.wikimedia.org/wikipedia/commons/e/e5/%E5%8D%97%E5%85%AC%E6%87%B7%E4%BB%81%E5%83%8F.jpg?download
+-https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg?download
+-https://media.vanityfair.com/photos/5aaaa8d14807db55e0503de5/2:3/w_887,h_1331,c_limit/Stephen-Hawking.jpg
+Telescopes:
+-https://www.nasa.gov/sites/default/files/thumbnails/image/ps04_4x6.jpg
+-https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg?download
+-https://upload.wikimedia.org/wikipedia/commons/b/b5/IBEX_spacecraft.jpg?download
+-https://upload.wikimedia.org/wikipedia/commons/9/94/WISE_artist_concept_%28PIA17254%2C_crop%29.jpg?download
+-https://upload.wikimedia.org/wikipedia/commons/4/47/James_Webb_Space_Telescope_2009_top.jpg?download
+Font:
+-https://www.1001fonts.com/download/font/exo-2-0.medium.otf

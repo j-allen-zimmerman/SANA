@@ -1,0 +1,91 @@
+.konten{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+.subjudul{
+    font-size: 60px;
+    color: white;
+}
+
+.kotakgede{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding:30px;
+    padding-bottom: 100px;
+}
+
+.kotakkonten{
+    width: 1400px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    padding: 30px;
+}
+
+.kotakgambar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+}
+
+.gambarkonten{
+    height: auto;
+    width: 550px;
+    border-radius: 10%;
+}
+
+.kotakgambar :hover{
+    transform: scale(1.1); 
+}
+
+.kotakmore{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    width: 50%;
+    padding-left: 70px;
+}
+
+.judulmore{
+    color:white;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.isimore{
+    color: white;
+    font-size: 20px;
+}
+
+.buttonmore{
+    margin-top: 20px;
+    background-color: #5367f8;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.mainTitle{
+    font-family: font;
+    src: url(./Font/nasalization-rg.otf);
+    font-size: 100px;
+    color: white;
+}
+
+body{
+    background-color:#141212;
+}
